@@ -1,6 +1,5 @@
 /* L3G4200D.h
  * Last modified Jan 16, 2016
- * Daniel Cullen
  */
 
 
